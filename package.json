@@ -11,5 +11,13 @@
   "scripts": {
     "build": "netlify build"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pieparker/netlify-plugin-its-done.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pieparker/netlify-plugin-its-done/issues"
+  },
+  "homepage": "https://github.com/Pieparker/netlify-plugin-its-done#readme"
 }
