@@ -2,6 +2,7 @@
   "name": "netlify-plugin-its-done",
   "version": "0.0.3",
   "description": "It's done.",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "netlify",
     "netlify-plugin"
