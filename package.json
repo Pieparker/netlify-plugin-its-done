@@ -21,6 +21,3 @@
   },
   "homepage": "https://github.com/Pieparker/netlify-plugin-its-done#readme"
 }
-"publishConfig": {
-  "registry": "https://npm.pkg.github.com/"
-}
