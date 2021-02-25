@@ -6,7 +6,7 @@
     "netlify",
     "netlify-plugin"
   ],
-  "author": "Pieparker <scott@pieparker.com>",
+  "author": "Pieparker <no-reply@netlify.com>",
   "main": "index.js",
   "scripts": {
     "build": "netlify build"
